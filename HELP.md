@@ -16,6 +16,7 @@ For further reference, please consider the following sections:
 * [Spring Configuration Processor](https://docs.spring.io/spring-boot/docs/2.5.2/reference/htmlsingle/#configuration-metadata-annotation-processor)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.5.2/reference/htmlsingle/#boot-features-developing-web-applications)
 * [Rest Repositories](https://docs.spring.io/spring-boot/docs/2.5.2/reference/htmlsingle/#howto-use-exposing-spring-data-repositories-rest-endpoint)
+* [Spring Data Redis (Access+Driver)](https://docs.spring.io/spring-boot/docs/2.5.2/reference/htmlsingle/#boot-features-redis)
 
 ### Guides
 The following guides illustrate how to use some features concretely:
@@ -26,6 +27,7 @@ The following guides illustrate how to use some features concretely:
 * [Accessing JPA Data with REST](https://spring.io/guides/gs/accessing-data-rest/)
 * [Accessing Neo4j Data with REST](https://spring.io/guides/gs/accessing-neo4j-data-rest/)
 * [Accessing MongoDB Data with REST](https://spring.io/guides/gs/accessing-mongodb-data-rest/)
+* [Messaging with Redis](https://spring.io/guides/gs/messaging-redis/)
 
 ### Additional Links
 These additional references should also help you:
