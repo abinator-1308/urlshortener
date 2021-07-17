@@ -19,7 +19,7 @@ import java.time.LocalDateTime;
 public class Url {
 
     @NotNull
-    private Integer id;
+    private Integer key;
 
     @NotBlank
     private String url;
